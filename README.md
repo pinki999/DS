@@ -13,3 +13,20 @@ In this project, we will predict if the Falcon 9 first stage will land successfu
 
 ## Methodology
 
+### 1. Data collection
+
+- Using SpaceX Rest API
+- Using webscraping 
+
+### 2. Data wrangling
+
+- Filtering the data
+- Dealing with missing values
+- Preparing the data using hot encoding
+
+### 3. Exploratory data analysis using SQL and visualization
+
+### 4. Ineteractive visual analytics using Folium and Plotly Dash
+
+### 5. Predictive analysis using classification algorithms
+
